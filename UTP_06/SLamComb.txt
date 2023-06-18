@@ -1,0 +1,2 @@
+Balance:
+Jane: 15 - Kate: +20 Mary: -8 - Cindy: 7
